@@ -1,4 +1,4 @@
-
+![logo](https://github.com/bhaiyacoding1/bhaiyacoding1/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Sachin Rathore</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
